@@ -27,4 +27,6 @@ If you use these functions for research, **please cite my 2022 paper** ["Multi-f
 
 A similar physical-optics tool, **Fresnel-Kirchhoff diffraction (FKD)** from a finite-aperture metasurface, that can be used for imaging or for wireless path-loss calculation between two antennas with scattering off a metasurface, can be found in Section III.A-B of my **2023 paper** ["On the Mobility Effect in UAV-Mounted Absorbing Metasurfaces: A Theoretical and Experimental Study"](https://doi.org/10.1109/ACCESS.2023.3299379). A broader discussion/perspective on the physical/wave-optics usage in wireless-communications with metasurfaces can be found in Section III.C therein. I plan to add FKD to the present MATLAB toolpack, as it complements HFP.
 
+Finally, I'm currently working on full-vector formulations for metasurface scattering in both the near- and far-field regimes. You can find some information in my recent conference paper ["Analysis and Design of Vector Holographic Metasurfaces"](https://doi.org/10.1109/PIERS62282.2024.10618760). 
+
 Thanks for reading/visiting =)
